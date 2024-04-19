@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T15:24:25.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="B8T0yovbIS1OATyaZPPm" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T15:27:28.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uyBVP3W9h_fE21eg56PL" version="24.2.5" type="github">
   <diagram name="Страница — 1" id="Yu0iMR2IUlxV8wK-VmuY">
     <mxGraphModel dx="1434" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="uYK3HDB5RP-4Jm5CZakB-1" value="CLIENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uYK3HDB5RP-4Jm5CZakB-2" value="SERVER" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uYK3HDB5RP-4Jm5CZakB-3" value="API 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="80" height="80" as="geometry" />
