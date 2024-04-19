@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T15:27:28.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uyBVP3W9h_fE21eg56PL" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T15:29:00.072Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Yj6-1F5kO-SV35yrWYmP" version="24.2.5" type="github">
   <diagram name="Страница — 1" id="Yu0iMR2IUlxV8wK-VmuY">
     <mxGraphModel dx="1434" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="uYK3HDB5RP-4Jm5CZakB-9" value="Text -&amp;nbsp;&lt;div&gt;Transcribed Audio&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uYK3HDB5RP-4Jm5CZakB-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;How to reduce waiting time on the client ?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
